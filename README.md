@@ -25,8 +25,5 @@ The system leverages asynchronous I/O for rapid web scraping and a robust vector
 
 ### Installation & Deployment
 
-1. **Clone the repository**
-   Replace `YOUR_USERNAME` with your actual GitHub username before running this command:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/async-search-engine.git](https://github.com/YOUR_USERNAME/async-search-engine.git)
-   cd async-search-engine
+1. Clone the repository:
+git clone [https://github.com/Sonic815/async-search-engine.git](https://github.com/Sonic815/async-search-engine.git)
